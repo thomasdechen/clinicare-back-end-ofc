@@ -29,6 +29,7 @@ git clone https://github.com/thomasdechen/clinicare-back-end-ofc.git
 
 Configure o banco de dados no arquivo application.properties.  
 Segue exemplo de application.properties:  
+
     spring.datasource.url=jdbc:postgresql://localhost:5432/clinicare  
     spring.datasource.username=[username]  
     spring.datasource.password=[password]  
