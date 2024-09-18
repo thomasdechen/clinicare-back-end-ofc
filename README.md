@@ -6,40 +6,40 @@ CliniCare é um sistema web robusto para gerenciamento de clínicas médicas, de
 
 ✨ **Funcionalidades Principais**
 
-👤 Cadastro e autenticação de usuários (Pacientes, Médicos e Secretários)
-📝 Gestão de perfis de usuários
-🗓️ Agendamento e cancelamento de consultas
-🏷️ Postagem e gerenciamento de serviços médicos
-⭐ Sistema de avaliação de médicos
-🔐 Geração de códigos para cadastro de médicos e secretários
+👤 Cadastro e autenticação de usuários (Pacientes, Médicos e Secretários)  
+📝 Gestão de perfis de usuários  
+🗓️ Agendamento e cancelamento de consultas  
+🏷️ Postagem e gerenciamento de serviços médicos  
+⭐ Sistema de avaliação de médicos  
+🔐 Geração de códigos para cadastro de médicos e secretários  
 
 🛠️ **Tecnologias Utilizadas**
 
-Java 17
-Spring Boot
-Spring Data JPA
-Spring Security
-PostgreSQL
-Maven
+Java 17  
+Spring Boot  
+Spring Data JPA  
+Spring Security  
+PostgreSQL  
+Maven  
 
 🚀 **Configuração e Instalação**
 
-Clone o repositório:
-git clone https://github.com/thomasdechen/clinicare-back-end-ofc.git
+Clone o repositório:  
+git clone https://github.com/thomasdechen/clinicare-back-end-ofc.git  
 
-Configure o banco de dados no arquivo application.properties.
-Segue exemplo de application.properties:
-    spring.datasource.url=jdbc:postgresql://localhost:5432/clinicare
-    spring.datasource.username=[username]
-    spring.datasource.password=[password]
+Configure o banco de dados no arquivo application.properties.  
+Segue exemplo de application.properties:  
+    spring.datasource.url=jdbc:postgresql://localhost:5432/clinicare  
+    spring.datasource.username=[username]  
+    spring.datasource.password=[password]  
     
-    api.security.token.secret=my-secret-key -- Inicialização token
+    api.security.token.secret=my-secret-key -- Inicialização token  
     
-    file.upload-dir=/path/to/upload/directory/
+    file.upload-dir=/path/to/upload/directory/  
 
-    #Informações de usuário, password e token, caso for uma aplicação
-    #que vai ser feito deploy, é melhor configurar por variáveis de ambiente e
-    #depois puxar aqui no application properties as variáveis de ambiente para ter mais segurança.
+    #Informações de usuário, password e token, caso for uma aplicação  
+    #que vai ser feito deploy, é melhor configurar por variáveis de ambiente e  
+    #depois puxar aqui no application properties as variáveis de ambiente para ter mais segurança.  
 
 
 🔗 **API Endpoints**
