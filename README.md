@@ -103,12 +103,12 @@ Aqui estão alguns dos principais endpoints da API:
 🔒 **Segurança**
 O sistema utiliza autenticação baseada em tokens JWT e implementa controle de acesso baseado em funções (RBAC) para garantir que apenas usuários autorizados possam acessar recursos específicos.
 
-🧪 **Testes**
-Teste serão implementados...
+🧪 **Testes**  
+Teste serão implementados...  
 
-📞 **Contato**
-Thomas Dechen Ferreira - dechendev@gmail.com
-Link do backend: https://github.com/thomasdechen/clinicare-back-end-ofc
-Link do frontend: https://github.com/thomasdechen/Clinicare-front-ofc
+📞 **Contato**  
+Thomas Dechen Ferreira - dechendev@gmail.com  
+Link do backend: https://github.com/thomasdechen/clinicare-back-end-ofc  
+Link do frontend: https://github.com/thomasdechen/Clinicare-front-ofc  
 
-⭐️ Se gostou do projeto, não se esqueça de dar uma estrela!
+⭐️ Se gostou do projeto, não se esqueça de dar uma estrela!  
