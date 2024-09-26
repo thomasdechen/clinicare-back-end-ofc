@@ -106,6 +106,8 @@ O sistema utiliza autenticação baseada em tokens JWT e implementa controle de 
 🧪 **Testes**  
 Teste serão implementados...  
 
+Segue vídeo de demonstração do site: https://youtu.be/_mQD28slnKc
+
 📞 **Contato**  
 Thomas Dechen Ferreira - dechendev@gmail.com  
 Link do backend: https://github.com/thomasdechen/clinicare-back-end-ofc  
