@@ -1,5 +1,7 @@
 # Clinicare Back-end <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="60px" height="60px" alt="Logo do Angular">
 
+Segue vídeo de demonstração do site: [https://youtu.be/_mQD28slnKc](https://youtu.be/DrQGDmrTAas)
+
 📋 **Visão Geral**
 
 CliniCare é um sistema web robusto para gerenciamento de clínicas médicas, desenvolvido com Java Spring. Este repositório contém o código backend do projeto, responsável por toda a lógica de negócios e interações com o banco de dados.
