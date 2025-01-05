@@ -106,7 +106,7 @@ O sistema utiliza autenticação baseada em tokens JWT e implementa controle de 
 🧪 **Testes**  
 Teste serão implementados...  
 
-Segue vídeo de demonstração do site: https://youtu.be/_mQD28slnKc
+Segue vídeo de demonstração do site: [https://youtu.be/_mQD28slnKc](https://youtu.be/DrQGDmrTAas)
 
 📞 **Contato**  
 Thomas Dechen Ferreira - dechendev@gmail.com  
